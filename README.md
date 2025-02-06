@@ -4,4 +4,4 @@
 1) apt install git
 2) apt install python
 3) pip install tkinterweb
-4) git clone 
+4) git clone https://github.com/amir-kali-linux/net-search-python.git
